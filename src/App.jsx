@@ -62,7 +62,7 @@ setConverteAmount(toal);
   </h1>
   <div style={{ gap: '20px', marginTop: '20px' }}>
     <Input
-      label={"From"}
+      lable={"From"}
       amount={amount}
       onCurrencyChange={setCurrency}
       amountDisable={amountDisable}
@@ -72,7 +72,7 @@ setConverteAmount(toal);
       currencyOptions={currencyOptions}
     />
     <Input
-      label={"To"}
+      lable={"To"}
       amount={convertAmount}
       onCurrencyChange={setSelectCurrency}
       amountDisable={amountDisable}
