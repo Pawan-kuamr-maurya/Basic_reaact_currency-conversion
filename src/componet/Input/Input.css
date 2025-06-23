@@ -1,0 +1,27 @@
+
+.input{
+    width: 450px;
+    border: rgb(216, 213, 230) 2px solid;
+    background-color: rgb(248, 249, 250);
+    padding: 20px;
+}
+
+input{
+    border: none;
+    background-color: rgb(200, 244, 252);
+    height: 30px;
+      width: 215px;
+      border-bottom: 2px solid black;
+
+}
+.top{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+text-decoration: none;
+
+}
+#currencytype{
+    height: 30px;
+    width: 215px;
+}
